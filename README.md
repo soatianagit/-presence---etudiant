@@ -53,8 +53,3 @@ Cette application web permet de gérer les présences des étudiants via une int
 ## Auteur
 
 Projet développé dans le cadre d’un exercice ou projet pédagogique.
-
-## Groupe 13
-### Membres:
-**RAZAFIMANDIMBY Soatiana Sandrine** (n°33)
-**RANDRIAMPARANY Jessi Fanirisoa** (n°42)
